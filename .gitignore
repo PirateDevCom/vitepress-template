@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+.DS_Store
+node_modules/
+docs/.vitepress/dist
+docs/.vitepress/cache
