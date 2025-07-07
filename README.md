@@ -76,5 +76,5 @@ spotlight/index.md
 * You can run the server locally using:
 
 ```sh
-yarn docs: dev
+yarn docs:dev
 ```

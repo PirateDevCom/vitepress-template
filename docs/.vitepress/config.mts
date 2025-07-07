@@ -13,6 +13,7 @@ export default defineConfig({
   ],
 
   // Uncomment the following lines to enable sitemap generation
+  // Also, update robots.txt accordingly
   // sitemap: {
   //   hostname: 'https://example.com'
   // },
